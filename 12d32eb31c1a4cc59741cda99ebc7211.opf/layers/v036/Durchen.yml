@@ -1,0 +1,100 @@
+id: 51c4a84a52744db4bd1e6ce4860f5c46
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  8e783aaa2d284261977645918e2e7bcd:
+    span:
+      start: 146387
+      end: 168420
+  286b295b5b6442d0b21ea131056204a3:
+    span:
+      start: 225291
+      end: 235998
+  a7decc2acdd947d19830dba833fdc6aa:
+    span:
+      start: 387169
+      end: 417646
+  9f65a8a576464f5a8fbdbbffe428fdb7:
+    span:
+      start: 469765
+      end: 477631
+  7da5c2ae3eaf40cb9399b83d34960f30:
+    span:
+      start: 531187
+      end: 540181
+  c826a23e43bb4ab7a25ce557cd7b7744:
+    span:
+      start: 560804
+      end: 564805
+  bd77b2ca86374a69a4dc9ba4d50d448c:
+    span:
+      start: 578862
+      end: 582858
+  2deaac4d5f4a4c619175ddd48faee99f:
+    span:
+      start: 627647
+      end: 628869
+  a23517aa83b34771baf8d43ef4874ef1:
+    span:
+      start: 645843
+      end: 649641
+  edcacba1265744c385176d2127c96763:
+    span:
+      start: 701149
+      end: 707053
+  c05c3e1481774cd1860b966e68f15c35:
+    span:
+      start: 743933
+      end: 749399
+  df6e855e8ff444bbad95aa7be9859b52:
+    span:
+      start: 773074
+      end: 776882
+  2d6a258b55d64878979490659e93c28e:
+    span:
+      start: 842310
+      end: 848404
+  bed373de01844935917a7dfde570e56f:
+    span:
+      start: 858880
+      end: 861499
+  f1a86f5cf7714a5aaa15af29f7def8b2:
+    span:
+      start: 905876
+      end: 911491
+  0b657a32e94b446fba0fc390636609b7:
+    span:
+      start: 937617
+      end: 940202
+  f7172ad4a8794208afcaee8a5d4a4e21:
+    span:
+      start: 949753
+      end: 952577
+  bdf4945126314778b77039363fd216d7:
+    span:
+      start: 981213
+      end: 985833
+  9db90b34b262413cbd610d135ee9a9fa:
+    span:
+      start: 1071099
+      end: 1079855
+  082462cb12df457baf62a0a8cee887df:
+    span:
+      start: 1249682
+      end: 1288932
+  ca696dc6461848a0acec6010ca8283a2:
+    span:
+      start: 1325768
+      end: 1325781
+  68361d57642648618abc8e0ea8917809:
+    span:
+      start: 2149715
+      end: 2219205
+  9555b726d74246f3b1c60fc632452ee8:
+    span:
+      start: 2351346
+      end: 2366635
+  ea6135f63b6e4f31a5134b339eb4aa08:
+    span:
+      start: 2531379
+      end: 2547766
