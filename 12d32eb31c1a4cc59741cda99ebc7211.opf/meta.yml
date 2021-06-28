@@ -1,6 +1,9 @@
-work_id: W1PD95844
-img_grp_offset: 845
-pref: I1PD95
+id: 12d32eb31c1a4cc59741cda99ebc7211
+initial_creation_type: ocr
+source_metadata:
+  work_id: W1PD95844
+  img_grp_offset: 845
+  pref: I1PD95
 vol2fn:
   v001: v001.txt
   v002: v002.txt
@@ -122,4 +125,4 @@ vol2fn:
   v118: v118.txt
   v119: v119.txt
   v120: v120.txt
-id: opecha:12d32eb31c1a4cc59741cda99ebc7211
+
