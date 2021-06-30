@@ -1307,6 +1307,14 @@ annotations:
     reference: null
     span:
       start: 202356
+      end: 203787
+    note_ref: f2348827d8f141f59a5bb58fa261a7d9
+  42f7e058de1b42cca7eef3b494bbfc54:
+    page_index: 84a
+    page_info: ''
+    reference: null
+    span:
+      start: 203790
       end: 205200
     note_ref: f2348827d8f141f59a5bb58fa261a7d9
   e4e5f3e5cd80451996e23c53fca5048f:
@@ -2883,6 +2891,14 @@ annotations:
     reference: null
     span:
       start: 474473
+      end: 471976
+    note_ref: aad60995a9354193aa1979217d8b5aa4
+  272916ae9d78484b975c3a0158417053:
+    page_index: 183a
+    page_info: ''
+    reference: null
+    span:
+      start: 471979
       end: 477279
     note_ref: aad60995a9354193aa1979217d8b5aa4
   4b2499bbee9340a8a6cd561743da5402:
