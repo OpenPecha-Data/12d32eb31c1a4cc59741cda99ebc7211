@@ -1,44 +1,50 @@
-id: a1bd1589bc0b430d9eda54e566a2eac1
+id: 1c76d544ddcd4099966a52c221374aa5
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  cd507c92bd9949e3ac0c530de34c860a:
+  15fd814356bd48a6a8384e3178be934e:
     span:
       start: 652717
-      end: 707269
-  304a454505ff435d98770f4cb167eff8:
+      end: 702495
+  359f87c23730409f9282a601993e2380:
     span:
-      start: 762559
-      end: 763351
-  7f0c4e5063db4e6eb3dfb9b66752fac3:
+      start: 757786
+      end: 758469
+  925bb9d3b0764e5e9026c95be552a068:
     span:
-      start: 818258
-      end: 822486
-  2167e6337aff4fba8a69bb3b44025581:
+      start: 813377
+      end: 817284
+  90a783e0b09e4509a7682c90a9a5d697:
     span:
-      start: 1236240
-      end: 1276504
-  619b2b58480744de820e885a33818745:
+      start: 1231039
+      end: 1268336
+  e629b2dfe42145469175a1de70a7e2f6:
     span:
-      start: 1278444
-      end: 1280076
-  5344d75757fc45ae9771044396f77d11:
+      start: 1270277
+      end: 1271866
+  c1d25ead4d9644ff80bd09626ca8ff36:
     span:
-      start: 1373595
-      end: 1381157
-  cea88d663b114a05b86a3ee36b37bfec:
+      start: 1365386
+      end: 1372493
+  446fd83285fa487badd6197dd9216083:
     span:
-      start: 2063531
-      end: 2135701
-  7e56a8d3b92d434aa3b212d834537ac4:
+      start: 2054868
+      end: 2122259
+  c953dc85bc21456db2613cda1997f518:
     span:
-      start: 2224366
-      end: 2229589
-  bc404f6055024d12a17d75b699a133dd:
+      start: 2210925
+      end: 2216064
+  656b8446281549418073cb5dfd096ac5:
     span:
-      start: 2454550
-      end: 2470333
-  5cdb6b1b1fe043aea3e3b32c29b05694:
-    span:
-      start: 2591735
-      end: 2591787
+      start: 2441026
+      end: 2456578
+local_ids:
+  15fd814356bd48a6a8384e3178be934e: 200000
+  359f87c23730409f9282a601993e2380: 200001
+  925bb9d3b0764e5e9026c95be552a068: 200002
+  90a783e0b09e4509a7682c90a9a5d697: 200003
+  e629b2dfe42145469175a1de70a7e2f6: 200004
+  c1d25ead4d9644ff80bd09626ca8ff36: 200005
+  446fd83285fa487badd6197dd9216083: 200006
+  c953dc85bc21456db2613cda1997f518: 200007
+  656b8446281549418073cb5dfd096ac5: 200008

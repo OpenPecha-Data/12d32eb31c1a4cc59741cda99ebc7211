@@ -1,40 +1,50 @@
-id: 68f3f815cd02467da01fd0c946ede064
+id: 6871d8d9e37f45448e7e1a8cf4f56526
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  41489c7b3952487891843222148def11:
+  13c73bb1486c4a2daf7699b206c5fe16:
     span:
       start: 222494
-      end: 266902
-  22e02c81c16241bca936f5789eea3a64:
+      end: 263564
+  7c728151107b4b6bae2c6d83a82e8a70:
     span:
-      start: 915070
-      end: 1012523
-  defbdb0252584034a9f5f07f14326df6:
+      start: 911733
+      end: 998451
+  b6c041f8467d4507b97fd67f8e8680bc:
     span:
-      start: 1314749
-      end: 1343890
-  1fe1b86b6e4449c596b1b41be4dcd879:
+      start: 1300678
+      end: 1326359
+  370e960dec3d43db8034bb35811d39ad:
     span:
-      start: 1711212
-      end: 1762111
-  ed5a51fe4d114f75a048f7c723b05c15:
+      start: 1693682
+      end: 1739265
+  527ab1024dbb45d79c9dc60eeec32d3f:
     span:
-      start: 1813147
-      end: 1818276
-  72f55d59695644fca7119f091180a976:
+      start: 1790302
+      end: 1795018
+  69d9fa2ab4314360a0abb3b62f418ad8:
     span:
-      start: 1841207
-      end: 1843432
-  04a99b291073482b97486432728f83f4:
+      start: 1817950
+      end: 1820020
+  227d49abbe39496c92fa12fa46c44d21:
     span:
-      start: 1952833
-      end: 1969849
-  c99cd5e7e63e4cc1ba1e435a7860779f:
+      start: 1929422
+      end: 1944514
+  aa39940ccc844b65bde67d5e268cb2d8:
     span:
-      start: 1988692
-      end: 1991944
-  c9222b2e02af4ece89e04326f49762dd:
+      start: 1963358
+      end: 1966348
+  8ed811ef886b487690152af534923533:
     span:
-      start: 2338329
-      end: 2385582
+      start: 2312734
+      end: 2354328
+local_ids:
+  13c73bb1486c4a2daf7699b206c5fe16: 200000
+  7c728151107b4b6bae2c6d83a82e8a70: 200001
+  b6c041f8467d4507b97fd67f8e8680bc: 200002
+  370e960dec3d43db8034bb35811d39ad: 200003
+  527ab1024dbb45d79c9dc60eeec32d3f: 200004
+  69d9fa2ab4314360a0abb3b62f418ad8: 200005
+  227d49abbe39496c92fa12fa46c44d21: 200006
+  aa39940ccc844b65bde67d5e268cb2d8: 200007
+  8ed811ef886b487690152af534923533: 200008
