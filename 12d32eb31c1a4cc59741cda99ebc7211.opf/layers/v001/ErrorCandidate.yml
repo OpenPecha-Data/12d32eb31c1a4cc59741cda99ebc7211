@@ -4,16 +4,16 @@ revision: '00001'
 annotations:
   ed31208bcbb24ea69329a13c26a520fb:
     span:
-      start: 440593
-      end: 440677
+      start: 440631
+      end: 440715
   4d4d46aef06245d2ad2a14ac22df967a:
     span:
-      start: 692726
-      end: 692731
+      start: 692764
+      end: 692769
   37b57a5a70c04d4ba4f3ba9fec5946d6:
     span:
-      start: 868959
-      end: 869018
+      start: 868997
+      end: 869056
 local_ids:
   ed31208bcbb24ea69329a13c26a520fb: 200000
   4d4d46aef06245d2ad2a14ac22df967a: 200001
