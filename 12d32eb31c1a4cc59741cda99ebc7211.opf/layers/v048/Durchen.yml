@@ -1,15 +1,12 @@
-id: 6408c4c3e3904a31a036f9ba8782d75d
+id: 0f0538ea531147318791e882b8e60edd
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  041abdcf61374ea1bbe843439a211521:
+  6c88cf8bf37f45419c6e6c3ea8cbec43:
     span:
-      start: 1051833
-      end: 1052464
-  1c7de3ddf3034043b073bbc5408f74cd:
+      start: 1043270
+      end: 1043951
+  5bbfebeb59594891b47296457d1aedfc:
     span:
-      start: 1142005
-      end: 1143375
-local_ids:
-  041abdcf61374ea1bbe843439a211521: 200000
-  1c7de3ddf3034043b073bbc5408f74cd: 200001
+      start: 1133563
+      end: 1134037

@@ -1,50 +1,40 @@
-id: 6871d8d9e37f45448e7e1a8cf4f56526
+id: 5962291f6d5f4dd3b4424ca4dd83c0b5
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  13c73bb1486c4a2daf7699b206c5fe16:
+  d0eb995ec8b443c589b9f68950875e00:
     span:
-      start: 222494
-      end: 263564
-  7c728151107b4b6bae2c6d83a82e8a70:
+      start: 220267
+      end: 262576
+  51a9261a28af4fd0a1500d2c2802db2c:
     span:
-      start: 911733
-      end: 998451
-  b6c041f8467d4507b97fd67f8e8680bc:
+      start: 909898
+      end: 997667
+  ff9e8c77bc1c4aaba74363c8d761f237:
     span:
-      start: 1300678
-      end: 1326359
-  370e960dec3d43db8034bb35811d39ad:
+      start: 1298922
+      end: 1326057
+  3e9cb10fa3e44e5c9a4b747353b8e0ed:
     span:
-      start: 1693682
-      end: 1739265
-  527ab1024dbb45d79c9dc60eeec32d3f:
+      start: 1691634
+      end: 1738213
+  28a6ca988cb04d85ae2bac96bfc0692c:
     span:
-      start: 1790302
-      end: 1795018
-  69d9fa2ab4314360a0abb3b62f418ad8:
+      start: 1788077
+      end: 1793861
+  73537ad94d8e4cea8e3304c1384e44b2:
     span:
-      start: 1817950
-      end: 1820020
-  227d49abbe39496c92fa12fa46c44d21:
+      start: 1815620
+      end: 1818669
+  1dfa35c9c84149d688aad01d0ef7802d:
     span:
-      start: 1929422
-      end: 1944514
-  aa39940ccc844b65bde67d5e268cb2d8:
+      start: 1927074
+      end: 1943208
+  f07b82ba0aa94040980cc5744073fea6:
     span:
-      start: 1963358
-      end: 1966348
-  8ed811ef886b487690152af534923533:
+      start: 1960941
+      end: 1964825
+  ff056d784dbd4d52927f309ceb20a087:
     span:
-      start: 2312734
-      end: 2354328
-local_ids:
-  13c73bb1486c4a2daf7699b206c5fe16: 200000
-  7c728151107b4b6bae2c6d83a82e8a70: 200001
-  b6c041f8467d4507b97fd67f8e8680bc: 200002
-  370e960dec3d43db8034bb35811d39ad: 200003
-  527ab1024dbb45d79c9dc60eeec32d3f: 200004
-  69d9fa2ab4314360a0abb3b62f418ad8: 200005
-  227d49abbe39496c92fa12fa46c44d21: 200006
-  aa39940ccc844b65bde67d5e268cb2d8: 200007
-  8ed811ef886b487690152af534923533: 200008
+      start: 2309871
+      end: 2353071
