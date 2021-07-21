@@ -1,56 +1,56 @@
-id: 5d40cf01a3634d809bee60749a99e2a1
+id: 4f70d6fd197f4943b1bb98eff7356eb2
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  e2f80a0e778048358280031b8429a26b:
+  46059887e787452d80640b54021a9a15:
     span:
-      start: 124211
-      end: 126756
-  c0a8319f49c847209404d3e268b60272:
+      start: 124359
+      end: 126990
+  757994ca727148459f957e8f9c49a31f:
     span:
-      start: 135448
-      end: 137216
-  090dd1bed1f346eaaeec66f2fc4c0184:
+      start: 135682
+      end: 137502
+  340ee0a2bc0540a3ba15b781d713e1ca:
     span:
-      start: 150054
-      end: 152145
-  94dc277dfca74e7e852161146bb749f4:
+      start: 150340
+      end: 152494
+  4743a8609f7048e9b6cb01ec8acc1da5:
     span:
-      start: 354926
-      end: 376346
-  b8a877e2c6ea413183444b3af12d9cdb:
+      start: 355275
+      end: 377534
+  0d0fd80ca5a641dda41180d1cdff4046:
     span:
-      start: 463260
-      end: 472691
-  87211d67b1c343bc81627115af3663dc:
+      start: 464448
+      end: 474243
+  6fd5dba6221541399c3893c9607b53d1:
     span:
-      start: 673876
-      end: 692984
-  965d9b193059481fac18bbccc7d9916b:
+      start: 675428
+      end: 695206
+  bbc4c3abdec949a8adb1ad5a13f35fb5:
     span:
-      start: 851108
-      end: 867857
-  0d340974cfc94f53b0595ded24312bc0:
+      start: 853330
+      end: 870647
+  a0db80fecc5b4fe48a0a19e755a570a2:
     span:
-      start: 1038841
-      end: 1060695
-  e4a1939c84c24b0fb12c8a0f70aa1d99:
+      start: 1041631
+      end: 1064168
+  93becadfd323421fa433a56ff9df298c:
     span:
-      start: 1142853
-      end: 1152064
-  e3c7e9c9583e4bfe9c00657e77bf90d3:
+      start: 1146326
+      end: 1155865
+  f719de3fbc85419e86b80ed5a3cc3f94:
     span:
-      start: 1399266
-      end: 1417699
-  fc3f577ec9884301a30d0eead8db457d:
+      start: 1403067
+      end: 1422675
+  dfe69a0d7d7e4346ad4a65d205f4eda3:
     span:
-      start: 1622828
-      end: 1636931
-  026fc6c5d8b24c528ed15ef362404b99:
+      start: 1627804
+      end: 1642798
+  7b52c27444224ad4bafef5261556469e:
     span:
-      start: 1986838
-      end: 2006851
-  16a1f8b7236c4bffa70f8afb729845bf:
+      start: 1992705
+      end: 2013687
+  231ed30b27384351aa5b9d599c8ef6c9:
     span:
-      start: 2237320
-      end: 2255654
+      start: 2244156
+      end: 2263168

@@ -1,100 +1,100 @@
-id: 2f7570ffd66c47828659471ffaa197f8
+id: 943df14abe874a1f88e97bf013ec3898
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  72824f23b6f0462199754f0af90a8843:
+  caca4a3a99ef492daacbbc854b6faadf:
     span:
       start: 144371
-      end: 163782
-  1eb3c89857474d59b8c6ea7f29eed847:
+      end: 164550
+  2103b41f677440c4a1f0bab192e8f8b4:
     span:
-      start: 215913
-      end: 228548
-  4414d77124a54d1186290c6811067496:
+      start: 216681
+      end: 229719
+  ec0668610b0c4ba98761b4b788f9e3fb:
     span:
-      start: 373825
-      end: 404936
-  8242f82e5a38416aaa32b356816476d8:
+      start: 374996
+      end: 407335
+  3f183c26e98a40c9a70ad2c917d9166a:
     span:
-      start: 452792
-      end: 463600
-  4fdfe9687b164ac1ad0c16cafb7fc1d5:
+      start: 455191
+      end: 466386
+  3091ac1806d0495fa5a9d0b3adda65d3:
     span:
-      start: 512788
-      end: 525027
-  0612f77bfc5447d195bf08da03818a8b:
+      start: 515574
+      end: 528223
+  ae8258cae3eb4dba8834001b3bdfd227:
     span:
-      start: 544452
-      end: 549474
-  b718332340904bfca4899241c4dbc020:
+      start: 547648
+      end: 552829
+  faaf71ba025d4c4bb93e02a5ae034e9c:
     span:
-      start: 563744
-      end: 567363
-  f8e1ec0446dd4380a66c6c522e05542b:
+      start: 567099
+      end: 570884
+  787310200061494480217295b55620cc:
     span:
-      start: 612712
-      end: 613628
-  139d00ae3137407b9dd4891abf478b23:
+      start: 616233
+      end: 617191
+  8984a75dcc534772a2b69c810765f285:
     span:
-      start: 629351
-      end: 633896
-  cedc74c363da4fecb19bf1ab0b1ab4ca:
+      start: 632914
+      end: 637564
+  5b55631d21ad46fe810f21ea8bd5e1c2:
     span:
-      start: 680797
-      end: 690819
-  517d0d035dbf4cc5b45f1888a11192d2:
+      start: 684465
+      end: 694869
+  19d3609423644a4da851dd4790801653:
     span:
-      start: 723391
-      end: 732477
-  1101b32571a046b784a638e4940c0267:
+      start: 727441
+      end: 736797
+  35e8113489eb4a598167bc29cfa0ffe0:
     span:
-      start: 754792
-      end: 759641
-  9ac72af956bc4947b7b03f48fc240a28:
+      start: 759112
+      end: 764156
+  450259ce17b5498281933bfeb2544504:
     span:
-      start: 820644
-      end: 830315
-  8a1413eefe1d4110b33d171bc578ddc3:
+      start: 825159
+      end: 835126
+  1c99b2fc16314d4eaeb4cef3b2c74b95:
     span:
-      start: 839845
-      end: 843496
-  791b6dd660a44d6289991ac4e9fd0961:
+      start: 844656
+      end: 848379
+  4f32913de85c41c79eab2447b208fe11:
     span:
-      start: 883542
-      end: 892732
-  db62363d10a449d6b1bdbba80312f5d0:
+      start: 888425
+      end: 897921
+  94730ef89dff4f1a8c406b58e2edaf43:
     span:
-      start: 918203
-      end: 921153
-  22f3295e8f6c4061b9d4d16f48980d44:
+      start: 923392
+      end: 926525
+  5a34d3d5e5414833889e972b87a66d2a:
     span:
-      start: 929728
-      end: 933203
-  7d7087415349416d90471eec07b1b056:
+      start: 935100
+      end: 938649
+  4833a3fd578b49809cdbb955a5f6c2fc:
     span:
-      start: 958469
-      end: 966191
-  c24a70782ebb458cb961312e90699657:
+      start: 963915
+      end: 971877
+  9abd9fbc7b6d40d5a6736e6ead2c8bad:
     span:
-      start: 1046926
-      end: 1059631
-  52362903486241c5bacee54045f2adfc:
+      start: 1052612
+      end: 1065644
+  5aca6fc8eb704647a2a8642ae454cd70:
     span:
-      start: 1224356
-      end: 1265557
-  e16945da2a6a4b859ff28b525fe7bc0b:
+      start: 1230369
+      end: 1272873
+  984dd7ec90a14efbb500f491dd3069dc:
     span:
-      start: 1298196
-      end: 1306334
-  daee2766a571465fb3208609a4ed773d:
+      start: 1305512
+      end: 1313932
+  c072bc46869b480ba621bb5b7802403b:
     span:
-      start: 2117689
-      end: 2184907
-  a2ec320a02c74fd5902eedb443a7022f:
+      start: 2126544
+      end: 2196385
+  ee148a96303142fdaad263335604c8c4:
     span:
-      start: 2312680
-      end: 2330418
-  35e277a9e026403bb8905bd9770d8c1e:
+      start: 2324158
+      end: 2342482
+  c16166466ff548158d6e6ffde601dfb6:
     span:
-      start: 2491058
-      end: 2514046
+      start: 2503122
+      end: 2526924

@@ -1,60 +1,60 @@
-id: 1b85271c80064dc5bcb9fe762a3d44d4
+id: 17a497ac7b29477386ba03bc9e93bbbd
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  b8ab35c5b3c84a93b55240bc6574c344:
+  17b814069d0240f794c615426ca4948f:
     span:
       start: 39811
-      end: 40349
-  6708f82ba46e457a8990577b8ad0fe35:
+      end: 40387
+  1916266001c24fdaabf4c53dfd77ed04:
     span:
-      start: 312793
-      end: 342956
-  97b0e29e52c84509bffcd3113249c83b:
+      start: 312850
+      end: 344277
+  0fe75d60312b44148305c498b088be46:
     span:
-      start: 585450
-      end: 590201
-  6ddb40a757fb4d5fa8ef24afd6285acf:
+      start: 586771
+      end: 592421
+  5c7caabf57794283bc836e9dba88960a:
     span:
-      start: 590906
-      end: 591969
-  70eba2dbc232448fb00941440a618d28:
+      start: 593126
+      end: 594203
+  c3fa2426129940e59cff61a6297cd984:
     span:
-      start: 596369
-      end: 597417
-  93aefd2c36ab4bd18db94fd062365caf:
+      start: 598603
+      end: 599681
+  12d6d94b61e6413988a86194f7fcdedf:
     span:
-      start: 600684
-      end: 601927
-  32759d760c7345628604695484262965:
+      start: 602948
+      end: 604212
+  0d70af42181142aaba254c8f47407045:
     span:
-      start: 628325
-      end: 630788
-  273e5d7280dd4858ae9cdebc423f030b:
+      start: 630614
+      end: 633151
+  0d9d452f957b4291afe6ed6cdde30ce4:
     span:
-      start: 632388
-      end: 635106
-  be91608bd5d94b8595ee875b32279ec0:
+      start: 634751
+      end: 637477
+  309c14625b044f029ffb46feda28268a:
     span:
-      start: 1067441
-      end: 1103397
-  6192bfe7b33542f1a80e3d9aad0efdbe:
+      start: 1070468
+      end: 1107825
+  1eb23318822641558cbdc1458ed80bf4:
     span:
-      start: 1125504
-      end: 1130102
-  baa39539fe9d4d689d055cb6f8d359dd:
+      start: 1129932
+      end: 1134678
+  4f32067587d84ef8982c605973b8e35a:
     span:
-      start: 1186057
-      end: 1196130
-  9aeace22fd6548fe9e31c23750207de4:
+      start: 1190633
+      end: 1201093
+  5f7786b56a3a430089ca88c14f2883a6:
     span:
-      start: 1199368
-      end: 1200368
-  841351816da2492a97dbc3a53f0926ca:
+      start: 1204331
+      end: 1205345
+  863a31e9c7be4a238b231408d7d6842b:
     span:
-      start: 1218236
-      end: 1221065
-  b42111208ae9434f98416869f76646db:
+      start: 1223213
+      end: 1226141
+  fc7186c6dc9f4743941724e51ea7540f:
     span:
-      start: 1559802
-      end: 1592826
+      start: 1564878
+      end: 1599896

@@ -1,12 +1,12 @@
-id: 3841df91a71140e597bdef87eacfdd5d
+id: 69ef2c0d46584f6d9e9d37b4f48bb5d4
 annotation_type: Durchen
 revision: '00001'
 annotations:
-  d35b070e919240679e59bad9e470b92d:
+  350998515e9f41b5a3dc9a56bf19daf2:
     span:
       start: 950626
-      end: 1032124
-  54f63330d3ef46d986e8a034befec26b:
+      end: 1036605
+  106c7e3d23914bcea75b26ba1da1e05f:
     span:
-      start: 2253047
-      end: 2376774
+      start: 2257528
+      end: 2385965
