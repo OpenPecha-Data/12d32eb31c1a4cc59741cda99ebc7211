@@ -22929,42 +22929,42 @@ annotations:
     span:
     - vol: 76
       start: 158888
-      end: 421592
+      end: 417788
   638b51bd06204eefaf36181a95876b1f:
     parts: {}
     work_id: D4050
     span:
     - vol: 76
-      start: 421595
-      end: 678570
+      start: 417791
+      end: 674766
   3522d1ceb7ce41b19d0c8890c14d9646:
     parts: {}
     work_id: D4051
     span:
     - vol: 76
-      start: 678573
-      end: 1062588
+      start: 674769
+      end: 1058784
   9a5ef11fc73a4ca09e0d91b45278e932:
     parts: {}
     work_id: D4052
     span:
     - vol: 76
-      start: 1062591
-      end: 1299225
+      start: 1058787
+      end: 1295421
   374dd1b7687341fe9d087b71746b1013:
     parts: {}
     work_id: D4053
     span:
     - vol: 76
-      start: 1299244
-      end: 1720487
+      start: 1295440
+      end: 1716683
   305decbfcc154870ab1560ea385bad0a:
     parts: {}
     work_id: D4054
     span:
     - vol: 76
-      start: 1720490
-      end: 2367846
+      start: 1716686
+      end: 2364042
   46ae2055791f4e468987621e10fde688:
     parts: {}
     work_id: D4055
